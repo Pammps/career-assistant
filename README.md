@@ -1,4 +1,4 @@
-# CareerAssistant (MVP)
+# CareerAssistant 
 
 Este projeto tem como objetivo criar um Assistente de Carreira capaz de analisar o perfil de um usuário — incluindo suas habilidades, interesses, experiência e formação — e gerar recomendações personalizadas de carreiras, trilhas de aprendizado e áreas de melhoria.
 
@@ -13,16 +13,16 @@ O sistema processa os dados informados pelo usuário e retorna sugestões alinha
 
 ## Como rodar (local)
 1. criar venv:
-python -m venv venv
-source venv/bin/activate # Windows: venv\Scripts\activate
-pip install -r requirements.txt
+-python -m venv venv
+-source venv/bin/activate # Windows: venv\Scripts\activate
+-pip install -r requirements.txt
 
 2. rodar web:
 python -m src.app
-abrir http://127.0.0.1:5000
+-abrir http://127.0.0.1:5000
 
 3. rodar CLI com exemplo:
-python src/app.py --cli
+-python src/app.py --cli
 
 ## Estrutura de Arquivos
 
