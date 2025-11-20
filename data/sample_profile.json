@@ -1,0 +1,12 @@
+{
+  "name": "Aluno",
+  "skill_levels": {
+    "python": 4,
+    "sql": 3,
+    "estatistica": 3,
+    "criatividade": 2
+  },
+  "interests": ["Data", "Design"],
+  "experience_months": 10,
+  "education": "ensino_superior_incompleto"
+}
