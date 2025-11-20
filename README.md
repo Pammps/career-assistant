@@ -47,7 +47,9 @@ GS - PYTHON/
 
 ![Dados Preenchidos](images/dados.png)
 
-![Resultado](images/resultado.png)
+Resultado
+<img width="1376" height="863" alt="image" src="https://github.com/user-attachments/assets/54e9b757-ff4c-47ec-b5f0-5fb7d8c4e0d8" />
+
 
 
 ## Observações
