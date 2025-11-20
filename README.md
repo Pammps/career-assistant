@@ -43,11 +43,18 @@ GS - PYTHON/
 
 ## Demonstração
 
-![Tela Inicial](images/tela_inicial.png)
+**Tela Inicial**
 
-![Dados Preenchidos](images/dados.png)
+<img width="794" height="535" alt="tela_inicial" src="https://github.com/user-attachments/assets/d095e788-d32f-4b1b-965f-c9f106885ec4" />
 
-Resultado
+
+**Dados Preenchidos**
+
+<img width="687" height="529" alt="dados" src="https://github.com/user-attachments/assets/8608be46-8782-4c88-84b4-0da456bc84ed" />
+
+
+**Resultado**
+
 <img width="1376" height="863" alt="image" src="https://github.com/user-attachments/assets/54e9b757-ff4c-47ec-b5f0-5fb7d8c4e0d8" />
 
 
